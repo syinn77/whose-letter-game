@@ -103,8 +103,6 @@
 
 https://syinn77.github.io/whose-letter-game/
 
-*請於 GitHub Pages 部署完成後確認網址可以正常開啟。*
-
 **注意事項：**
 
 - 建議使用電腦遊玩，以獲得較完整的文字輸入與探索體驗。
